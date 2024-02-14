@@ -1,0 +1,15 @@
+.listItem {
+  list-style-type: none;
+  margin: 8px;
+  width: 35%;
+}
+.image {
+  width: 100%;
+  margin: 0;
+}
+.heading {
+  color: #000000;
+}
+.para {
+  color: #64748b;
+}
