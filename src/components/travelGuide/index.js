@@ -23,7 +23,7 @@ class TravelGuide extends Component {
       imageUrl: each.image_url,
       description: each.description,
     }))
-    this.setState({placesList: updatedData, isLoading: false}, this.getPlaces)
+    this.setState({placesList: updatedData, isLoading: false})
   }
 
   render() {
